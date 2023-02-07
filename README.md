@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-rDN2o_Dtmu
 - Live Site URL: https://phoenixliving.github.io/product-preview-card/
 
 ## My process
